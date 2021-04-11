@@ -1,0 +1,17 @@
+.orders{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height:10vh;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px;
+    padding: 20px;
+    margin-top: 90px;
+    margin-left: 490px;
+    align-items: center;
+}
+.orders_button{
+    margin-top: 19px;
+}
+
